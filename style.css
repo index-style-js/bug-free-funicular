@@ -1,0 +1,23 @@
+body{
+
+    text-align: center;
+    background-size: cover;
+    
+    
+    }
+    
+    .heading{
+    
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    
+    }
+
+    .one, .two, .three{
+
+        color: black;
+        background-color: blue;
+        font-size: 23px;
+
+    }
